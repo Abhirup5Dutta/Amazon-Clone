@@ -2,8 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The project is as follow:
-![Project image](./src/project_img.png)
+![Project image](amazon-clone/src/project_img.png)
 
 ## Available Scripts
 
