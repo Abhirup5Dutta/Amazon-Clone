@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 The project is as follow:
-https://i.imgur.com/QzuO2wg.png
+![Project iamge](src/project_img)
 
 ## Available Scripts
 
