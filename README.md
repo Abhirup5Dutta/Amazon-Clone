@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Project image](D:/Complete React Course/amazon-clone/amazon-clone/src/project_img.png)
+![Project image](/Complete React Course/amazon-clone/amazon-clone/src/project_img.png)
 
 ## Available Scripts
 
