@@ -1,8 +1,8 @@
+# Application build
 
 [Deployed Application Link](https://clone-d2987.web.app/)
 
 ![Project image](https://i.imgur.com/QzuO2wg.png)
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
