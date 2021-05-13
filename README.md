@@ -6,6 +6,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**Application Uses:**
+1. Firebase
+2. ReactJs
+3. React Cntext API
+4. Stripe payment functionality
+
 
 ## Available Scripts
 
